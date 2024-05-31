@@ -1,0 +1,5 @@
+    "clock": {
+        "format": "{:%H:%M 󰃭 %d·%m·%y}",
+        "rotate": ${r_deg}
+    },
+
